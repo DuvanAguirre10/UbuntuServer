@@ -1,7 +1,7 @@
 # UbuntuServer
 grupo5
             paso 1: elegir el lenguaje con el que vamos a instalar ubuntu server
-![img6.jpg](img/ima6.jpg) 
+![img6.jpg](img/ima1.jpg) 
 
             paso 2: En este paso elegimos la configuracion del teclado se eligio el español 
 ![img7.jpg](img/ima7.jpg)
